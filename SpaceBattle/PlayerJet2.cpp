@@ -1,4 +1,4 @@
-#include "PlayerJet.h"
+#include "PlayerJet2.h"
 
 PlayerJet::PlayerJet(ALLEGRO_BITMAP *image, ALLEGRO_BITMAP *xplode, float speed, float x, float y, float w, float h)
 	: FighterJet(image, xplode, speed, x, y, w, h)
