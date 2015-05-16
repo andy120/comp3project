@@ -78,10 +78,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="EnemyBullet.h" />
     <ClInclude Include="FighterJet.h" />
     <ClInclude Include="PlayerBullet.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="EnemyBullet.cpp" />
     <ClCompile Include="FigherJet.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />
   </ItemGroup>
