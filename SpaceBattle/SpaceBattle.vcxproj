@@ -79,12 +79,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Bullet2.h" />
+    <ClInclude Include="EnemyBullet2.h" />
     <ClInclude Include="FighterJet.h" />
     <ClInclude Include="PlayerBullet.h" />
     <ClInclude Include="PlayerJet2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Bullet2.cpp" />
+    <ClCompile Include="EnemyBullet2.cpp" />
     <ClCompile Include="FighterJet.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />
