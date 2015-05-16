@@ -80,6 +80,9 @@
   <ItemGroup>
     <ClInclude Include="PlayerBullet.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PlayerBullet.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
