@@ -32,10 +32,10 @@
     <ClCompile Include="PlayerBullet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FigherJet.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="FighterJet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PlayerJet.cpp">
