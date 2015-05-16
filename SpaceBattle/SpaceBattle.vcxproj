@@ -82,7 +82,7 @@
     <ClInclude Include="PlayerBullet.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FigherJet.cpp" />
+    <ClCompile Include="FighterJet.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />
   </ItemGroup>
