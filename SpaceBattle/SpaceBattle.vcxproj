@@ -87,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Bullet.cpp" />
-    <ClCompile Include="EnemyBullet2.cpp" />
+    <ClCompile Include="EnemyBullet.cpp" />
     <ClCompile Include="EnemyJet2.cpp" />
     <ClCompile Include="FighterJet.cpp" />
     <ClCompile Include="main.cpp" />
