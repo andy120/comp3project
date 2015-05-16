@@ -21,7 +21,10 @@
     <ClInclude Include="FighterJet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="enemyjet.h">
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerJet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +38,10 @@
     <ClCompile Include="FighterJet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="enemyjet.cpp">
+    <ClCompile Include="PlayerJet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
