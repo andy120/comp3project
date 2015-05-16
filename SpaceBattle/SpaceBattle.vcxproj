@@ -82,6 +82,7 @@
     <ClInclude Include="PlayerBullet.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FigherJet.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
