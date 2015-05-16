@@ -21,10 +21,10 @@
     <ClInclude Include="FighterJet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Bullet.h">
+    <ClInclude Include="Bullet2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PlayerJet.h">
+    <ClInclude Include="PlayerJet2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,10 +38,10 @@
     <ClCompile Include="FighterJet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PlayerJet.cpp">
+    <ClCompile Include="Bullet2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bullet.cpp">
+    <ClCompile Include="PlayerJet2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

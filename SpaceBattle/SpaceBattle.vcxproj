@@ -78,13 +78,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Bullet2.h" />
     <ClInclude Include="FighterJet.h" />
     <ClInclude Include="PlayerBullet.h" />
+    <ClInclude Include="PlayerJet2.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bullet2.cpp" />
     <ClCompile Include="FighterJet.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />
+    <ClCompile Include="PlayerJet2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
