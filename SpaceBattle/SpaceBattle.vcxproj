@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="FighterJet.h" />
     <ClInclude Include="PlayerBullet.h" />
   </ItemGroup>
   <ItemGroup>
