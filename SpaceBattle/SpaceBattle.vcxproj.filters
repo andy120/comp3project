@@ -30,6 +30,12 @@
     <ClInclude Include="EnemyBullet2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="F:\Space Batle\Space Batle\EnemyJet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Space Batle\Space Batle\EnemyBullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PlayerBullet.cpp">
@@ -48,6 +54,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="EnemyBullet2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyJet2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
