@@ -79,8 +79,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Bullet.h" />
-    <ClInclude Include="F:\Space Batle\Space Batle\EnemyBullet.h" />
-    <ClInclude Include="F:\Space Batle\Space Batle\EnemyJet.h" />
+    <ClInclude Include="EnemyBullet.h" />
+    <ClInclude Include="EnemyJet.h" />
     <ClInclude Include="FighterJet.h" />
     <ClInclude Include="PlayerBullet.h" />
     <ClInclude Include="PlayerJet2.h" />
@@ -88,7 +88,7 @@
   <ItemGroup>
     <ClCompile Include="Bullet.cpp" />
     <ClCompile Include="EnemyBullet.cpp" />
-    <ClCompile Include="EnemyJet2.cpp" />
+    <ClCompile Include="EnemyJet.cpp" />
     <ClCompile Include="FighterJet.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PlayerBullet.cpp" />

@@ -1,3 +1,5 @@
+#pragma once
+
 #include "PlayerJet.h"
 
 class EnemyBullet : public Bullet
@@ -16,3 +18,4 @@ public:
 	virtual void check_collision();
 	virtual void check_screen_bounds();
 };
+
